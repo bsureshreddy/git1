@@ -1,0 +1,7 @@
+drwxr-xr-x 1 Dell 197121   0 Jan 20 12:11 ./
+drwxr-xr-x 1 Dell 197121   0 Jan 20 12:12 ../
+drwxr-xr-x 1 Dell 197121   0 Jan 20 12:09 .git/
+-rw-r--r-- 1 Dell 197121 190 Jan 20 12:06 ss
+-rw-r--r-- 1 Dell 197121 427 Jan 20 12:11 sss
+-rw-r--r-- 1 Dell 197121   0 Jan 20 12:10 sss.txt
+
